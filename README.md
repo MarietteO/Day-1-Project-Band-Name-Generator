@@ -4,4 +4,5 @@
 **Skills demonstrated:**<br>
 Functions: print, input<br>
 Line breaks<br>
+f strings<br>
 Variables and variable naming conventions
