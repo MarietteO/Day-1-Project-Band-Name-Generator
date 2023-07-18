@@ -1,7 +1,7 @@
-# Day-1-Project-Band-Name-Generator
+# Day-1-Project-Band-Name-Generator<br>
 100 Days of Code: The Complete Python Pro Bootcamp for 2023: Day 1 Project: Band Name Generator
-
-**Skills demonstrated:**
-Functions: print, input
-Line breaks
+<p></p>
+**Skills demonstrated:**<br>
+Functions: print, input<br>
+Line breaks<br>
 Variables and variable naming conventions
